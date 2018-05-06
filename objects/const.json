@@ -1,0 +1,15 @@
+{
+  "txtHeader": "Sign in",
+  "subject": "Subject for automation test",
+  "content": "Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.",
+  "compose": "COMPOSE",
+
+  "Gmail1": {
+    "user": "epam7777@gmail.com",
+    "pass": "pass123."
+  },
+  "Gmail2": {
+    "user": "testcaseforselenium@gmail.com",
+    "pass": "9386206687"
+  }
+}
